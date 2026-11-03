@@ -1,0 +1,9 @@
+{
+  "versionCode": 401,
+  "versionName": "4.0.1",
+  "minSdk": 21,
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.1-arm64.apk",
+  "sha256": "72d98dc64bb265ebce6360ca5290ea306b2f414f1290c5158c3e92fd6e7e7587",
+  "size": 9259979,
+  "notes": "幻影多開 PhantomBox 4.0.1：不需 root 的分身／多開，加入線上更新（開啟時自動檢查＋選單「檢查更新」）。"
+}
