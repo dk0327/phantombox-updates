@@ -1,9 +1,9 @@
 {
-  "versionCode": 402,
-  "versionName": "4.0.2",
+  "versionCode": 403,
+  "versionName": "4.0.3",
   "minSdk": 21,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.2-universal.apk",
-  "sha256": "1bdcbe96a2f57517a6707f76d00cee5acc26aed7e1f031c3c7fd5242e80b81a3",
-  "size": 4266275,
-  "notes": "幻影多開 PhantomBox 4.0.2：空間可放多個分身（資料各自獨立）；在哪個空間新增就放在哪；新增「移動到其他空間」；還原備份一律建立新分身、名稱完整保留；每個分身獨立裝置資訊；修正重複開啟。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.3-universal.apk",
+  "sha256": "90845fcd5d6ded492f651818b367262ef0377bb77f04a1c8c16abd8125c3374b",
+  "size": 4285353,
+  "notes": "幻影多開 PhantomBox 4.0.3：主頁可多選分身、批次移動到其他空間；新增分身可選「從 APK 檔建立」；修正分身相機權限（啟動前會提示授權幻影多開本體的相機／麥克風）。"
 }
