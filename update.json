@@ -1,9 +1,9 @@
 {
-  "versionCode": 401,
-  "versionName": "4.0.1",
+  "versionCode": 402,
+  "versionName": "4.0.2",
   "minSdk": 21,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.1-arm64.apk",
-  "sha256": "72d98dc64bb265ebce6360ca5290ea306b2f414f1290c5158c3e92fd6e7e7587",
-  "size": 9259979,
-  "notes": "幻影多開 PhantomBox 4.0.1：不需 root 的分身／多開，加入線上更新（開啟時自動檢查＋選單「檢查更新」）。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.2-universal.apk",
+  "sha256": "1bdcbe96a2f57517a6707f76d00cee5acc26aed7e1f031c3c7fd5242e80b81a3",
+  "size": 4266275,
+  "notes": "幻影多開 PhantomBox 4.0.2：空間可放多個分身（資料各自獨立）；在哪個空間新增就放在哪；新增「移動到其他空間」；還原備份一律建立新分身、名稱完整保留；每個分身獨立裝置資訊；修正重複開啟。"
 }
