@@ -1,9 +1,9 @@
 {
-  "versionCode": 403,
-  "versionName": "4.0.3",
+  "versionCode": 404,
+  "versionName": "4.0.4",
   "minSdk": 21,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.3-universal.apk",
-  "sha256": "90845fcd5d6ded492f651818b367262ef0377bb77f04a1c8c16abd8125c3374b",
-  "size": 4285353,
-  "notes": "幻影多開 PhantomBox 4.0.3：主頁可多選分身、批次移動到其他空間；新增分身可選「從 APK 檔建立」；修正分身相機權限（啟動前會提示授權幻影多開本體的相機／麥克風）。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.4-universal.apk",
+  "sha256": "12fc33168210c04bd61d30101f5ec9016be8c619f75f44edb93a09472cf5294c",
+  "size": 4285924,
+  "notes": "新增「隱藏 Root 與多開痕跡」（預設開啟，設定可關），緩解部分 App 的環境偵測警告；若某支分身開啟後異常，到設定關閉即可還原。"
 }
