@@ -1,9 +1,9 @@
 {
-  "versionCode": 404,
-  "versionName": "4.0.4",
+  "versionCode": 412,
+  "versionName": "4.0.12",
   "minSdk": 21,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.4-universal.apk",
-  "sha256": "12fc33168210c04bd61d30101f5ec9016be8c619f75f44edb93a09472cf5294c",
-  "size": 4285924,
-  "notes": "新增「隱藏 Root 與多開痕跡」（預設開啟，設定可關），緩解部分 App 的環境偵測警告；若某支分身開啟後異常，到設定關閉即可還原。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.12-universal.apk",
+  "sha256": "6f8f7470c8f755ef5aba7df0f3a3884601b8fb6678fc02d072d1326c19c90434",
+  "size": 4309660,
+  "notes": "多選分身可批次刪除；移除電報組與開源地址；修正分身相機/人臉辨識相容性與分身服務重啟閃退"
 }
