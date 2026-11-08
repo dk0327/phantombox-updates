@@ -1,9 +1,9 @@
 {
-  "versionCode": 412,
-  "versionName": "4.0.12",
+  "versionCode": 419,
+  "versionName": "4.0.19",
   "minSdk": 21,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.12-universal.apk",
-  "sha256": "6f8f7470c8f755ef5aba7df0f3a3884601b8fb6678fc02d072d1326c19c90434",
-  "size": 4309660,
-  "notes": "多選分身可批次刪除；移除電報組與開源地址；修正分身相機/人臉辨識相容性與分身服務重啟閃退"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/phantombox-updates/main/apk/PhantomBox-4.0.19-universal.apk",
+  "sha256": "8609e75e736d7a468ae2f5b8c536ffb6994d8fa9894bf2ccb6372f271be72e9a",
+  "size": 4350744,
+  "notes": "悟空格式備份導入悟空可顯示偽裝機型；郵儲改走系統屬性偽裝不再改寫函式庫；核心服務前台保護防止被系統凍結；修正背景廣播與冷啟動人臉頁閃退；自動建立悟空備份資料夾"
 }
